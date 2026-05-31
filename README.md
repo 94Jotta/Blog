@@ -1,4 +1,4 @@
-# ✍️ Juan Pedro R.F. · Blog & Ensayos Técnicos
+#  Juan Pedro R.F. · Blog & Ensayos Técnicos
 
 > **Exploraciones en Inteligencia Artificial, Ciencia de Datos, Ciberseguridad y el impacto social de la tecnología.**
 > 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📚 Índice de Artículos Destacados
+##  Índice de Artículos Destacados
 
 ```carousel
 ### 1 · Aprendizaje Automático
@@ -44,7 +44,7 @@ Ensayos sobre el impacto y los mitos de la era de la inteligencia artificial.
 
 ---
 
-## 🛠️ Stack Tecnológico Utilizado en mis Artículos
+##  Stack Tecnológico Utilizado en mis Artículos
 
 *   **Procesamiento de Lenguaje (NLP):** NLTK (Natural Language Toolkit), tokenización, stop-words, lematización.
 *   **Modelado y Algorítmica:** Naive Bayes, Redes Neuronales Artificiales (ANN / MLP), Filtrado Colaborativo, Cosine Similarity.
@@ -52,7 +52,7 @@ Ensayos sobre el impacto y los mitos de la era de la inteligencia artificial.
 
 ---
 
-## 📬 Contacto y Feedback
+##  Contacto y Feedback
 
 Si tienes dudas, feedback o deseas colaborar en algún proyecto de investigación de datos o IA:
 
