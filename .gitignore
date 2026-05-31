@@ -1,0 +1,12 @@
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# JetBrains settings
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
