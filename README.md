@@ -2,7 +2,7 @@
 
 > **Exploraciones en Inteligencia Artificial, Ciencia de Datos, Ciberseguridad y el impacto social de la tecnología.**
 > 
-> *Este repositorio sirve como un archivo y copia de seguridad en Markdown de mis artículos técnicos y filosóficos publicados en mi canal de Medium: [@criticamascritica](https://medium.com/@criticamascritica).*
+> 
 
 ---
 
