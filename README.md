@@ -1,4 +1,4 @@
-#  Juan Pedro R.F. · Blog & Ensayos Técnicos
+#  JP · Blog 
 
 > **Exploraciones en Inteligencia Artificial, Ciencia de Datos, Ciberseguridad y el impacto social de la tecnología.**
 > 
