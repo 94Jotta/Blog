@@ -57,5 +57,4 @@ Ensayos sobre el impacto y los mitos de la era de la inteligencia artificial.
 Si tienes dudas, feedback o deseas colaborar en algún proyecto de investigación de datos o IA:
 
 *   **LinkedIn:** [linkedin.com/in/juan-pedro-r-f-313954241/](https://www.linkedin.com/in/juan-pedro-r-f-313954241/)
-*   **Medium:** [@criticamascritica](https://medium.com/@criticamascritica)
-*   **Email:** [jottasplive@gmail.com](mailto:jottasplive@gmail.com)
+
